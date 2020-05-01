@@ -8,7 +8,12 @@ There are hundreds and thousands of resources on the internet for this topic, bu
 
 ## Contents
 
-* []()
+* [What Is TCR?](https://software-sunshine-blog.de/eng-tcr-vs-tdd)
+* [(test && commit || revert) Questions Answered](https://medium.com/@tdeniffel/test-commit-revert-questions-answered-ddf012a1af97)
+* [Test-driven programming workflows](https://rachelcarmena.github.io/2018/11/13/test-driven-programming-workflows.html)
+* [test && commit || revert](https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864)
+* [Limbo on the Cheap](https://medium.com/@kentbeck_7670/limbo-on-the-cheap-e4cfae840330)
+* [TCR workshop (scripts, slides) by Isidro López and Joe Bew](https://github.com/islomar/tcr-workshop)
 
 ## Usage
 
